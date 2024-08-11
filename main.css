@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+// import roboto
+@import url('https://www.cssfontstack.com/Palatino');
+
+// define
+$palatino-font: 'Palatino', sans-serif;
+
+// implement
+$font-family-serif: $palatino-font;
+$font-family-sans-serif: $palatino-font;
+$font-family-monospace: 'Consolas';
+
+$link-color: #779ecb;
+$primary: #779ecb;
+
+@webkit-font-smoothing: antialiased;

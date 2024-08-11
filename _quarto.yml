@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: output
+
+website:
+  title: "Young Voices"
+  open-graph: true
+  navbar:
+    left:
+      - icon: house
+        text: Home
+        href: index.qmd
+      - icon: search
+        text: About
+        href: about.qmd
+      - icon: people
+        text: Project Team
+        href: people.qmd
+      - icon: pen
+        text: Contact
+        href: contact.qmd
+format:
+  html:
+    theme: [main.css]
+    fig-align: center
+    css: styles.css
+    page-layout: full
+    article-layout: full
+    figure-layout: full
+
+editor: visual

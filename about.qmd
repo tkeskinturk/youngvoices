@@ -1,0 +1,18 @@
+---
+title: ""
+---
+
+```{=html}
+<style>
+  body {
+  background-image: url(./docs/_duke.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
+<meta name="robots" content="noindex">
+```
+
+The purpose of this research is to understand how children aged 10-12 navigate their social world; understand cultural, economic, and political issues; and how their parents help them throughout this learning process.
+
+To answer these questions, our project team devised survey and interview instruments to learn the experiences of children and their parents.

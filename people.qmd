@@ -1,0 +1,35 @@
+---
+title: ""
+---
+
+```{=html}
+<style>
+  body {
+  background-image: url(./docs/_blank.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  figcaption {
+  margin: auto;
+  text-align: center;
+}
+</style>
+<meta name="robots" content="noindex">
+```
+::: {layout-ncol="4"}
+![[Christopher Johnston]{style="font-weight: bold;"}<br> [Professor of Political Science]{style="font-size: 14px;"}<br> [Duke University]{style="font-size: 14px;"}](docs/CJ.jpg)
+
+![[Jessi Streib]{style="font-weight: bold;"}<br> [Associate Professor of Sociology]{style="font-size: 14px;"}<br> [Duke University]{style="font-size: 14px;"}](docs/JS.jpg)
+
+![[Stephen Vaisey]{style="font-weight: bold;"}<br> [Professor of Sociology & Political Science]{style="font-size: 14px;"}<br> [Duke University]{style="font-size: 14px;"}](docs/SV.jpg)
+
+![[Craig Rawlings]{style="font-weight: bold;"}<br> [Associate Professor of Sociology]{style="font-size: 14px;"}<br> [Duke University]{style="font-size: 14px;"}](docs/CR.jpg)
+
+![[Curtis Bram]{style="font-weight: bold;"}<br> [Assistant Professor of Political Science]{style="font-size: 14px;"}<br> [University of Texas at Dallas]{style="font-size: 14px;"}](docs/CB.jpg)
+
+![[Turgut Keskintürk]{style="font-weight: bold;"}<br> [Ph.D. Student of Sociology]{style="font-size: 14px;"}<br> [Duke University]{style="font-size: 14px;"}](docs/TK.jpg)
+
+![[Martín Opertti]{style="font-weight: bold;"}<br> [Ph.D. Student of Political Science]{style="font-size: 14px;"}<br> [Duke University]{style="font-size: 14px;"}](docs/MO.jpg)
+
+![](docs/_blank.png)
+:::

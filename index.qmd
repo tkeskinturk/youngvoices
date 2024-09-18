@@ -13,11 +13,11 @@ title: ""
 </style>
 <meta name="robots" content="noindex">
 ```
-[Welcome!]{style="font-size: 24px;"}
+[Welcome!]{style="font-size: 22px;"}
 
-[This is the official webpage of the *Young Voices: Growing Up in America* project at Duke University.]{style="font-size: 24px;"}
+[This is the official webpage of *Young Voices: Growing Up in America*, a research project hosted by Duke University.]{style="font-size: 22px;"}
 
-[See our [About](./about.html) page for project details and [Project Team](./people.html) for project members.]{style="font-size: 24px;"}.
+[See our [About](./about.html) page for project details and project members.]{style="font-size: 22px;"}
 
 ::: {fig.align="center"}
 ![](docs/_kids2.jpg){.lightbox}

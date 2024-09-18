@@ -1,0 +1,9 @@
+---
+title: "Survey"
+---
+
+<script>
+  window.location.href = "https://duke.qualtrics.com/jfe/form/SV_0GJFApuM27e6ED4";
+</script>
+
+If you are not redirected, [click here to go to the survey](https://duke.qualtrics.com/jfe/form/SV_0GJFApuM27e6ED4).

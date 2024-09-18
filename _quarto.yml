@@ -13,12 +13,12 @@ website:
       - icon: search
         text: About
         href: about.qmd
-      - icon: people
-        text: Project Team
-        href: people.qmd
       - icon: pen
         text: Contact
         href: contact.qmd
+      - icon: book
+        text: Survey
+        href: survey.qmd
 format:
   html:
     theme: [main.css]
